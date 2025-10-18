@@ -1,0 +1,5 @@
+{
+  "name": "Money Master",
+  "description": "A modern and intuitive portfolio manager to track your assets and liabilities, providing a clear overview of your net worth. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
